@@ -1,0 +1,181 @@
+date,trend_id,trend_name,category,region,search_interest,source,source_url,collection_date,query_group,time_range,search_query,search_category,granularity_source
+2023-11,T001,Butter Yellow,Colour,India,11.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2023-12,T001,Butter Yellow,Colour,India,12.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2024-01,T001,Butter Yellow,Colour,India,18.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2024-02,T001,Butter Yellow,Colour,India,23.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2024-03,T001,Butter Yellow,Colour,India,33.5,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2024-04,T001,Butter Yellow,Colour,India,27.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2024-05,T001,Butter Yellow,Colour,India,42.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2024-06,T001,Butter Yellow,Colour,India,38.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2024-07,T001,Butter Yellow,Colour,India,47.1,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2024-08,T001,Butter Yellow,Colour,India,46.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2024-09,T001,Butter Yellow,Colour,India,39.9,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2024-10,T001,Butter Yellow,Colour,India,42.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2024-11,T001,Butter Yellow,Colour,India,39.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2024-12,T001,Butter Yellow,Colour,India,39.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2025-01,T001,Butter Yellow,Colour,India,42.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2025-02,T001,Butter Yellow,Colour,India,49.9,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2025-03,T001,Butter Yellow,Colour,India,58.8,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2025-04,T001,Butter Yellow,Colour,India,67.5,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2025-05,T001,Butter Yellow,Colour,India,65.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2025-06,T001,Butter Yellow,Colour,India,65.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2025-07,T001,Butter Yellow,Colour,India,68.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2025-08,T001,Butter Yellow,Colour,India,66.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2025-09,T001,Butter Yellow,Colour,India,76.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2025-10,T001,Butter Yellow,Colour,India,71.9,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2025-11,T001,Butter Yellow,Colour,India,64.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2025-12,T001,Butter Yellow,Colour,India,68.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2026-01,T001,Butter Yellow,Colour,India,68.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2026-02,T001,Butter Yellow,Colour,India,74.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2026-03,T001,Butter Yellow,Colour,India,76.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2026-04,T001,Butter Yellow,Colour,India,86.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2026-05,T001,Butter Yellow,Colour,India,88.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2026-06,T001,Butter Yellow,Colour,India,96.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2026-07,T001,Butter Yellow,Colour,India,99.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2026-08,T001,Butter Yellow,Colour,India,100.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2026-09,T001,Butter Yellow,Colour,India,93.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2026-10,T001,Butter Yellow,Colour,India,94.5,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,butter yellow,All categories,monthly
+2023-11,T002,Burgundy,Colour,India,77.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2023-12,T002,Burgundy,Colour,India,83.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2024-01,T002,Burgundy,Colour,India,71.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2024-02,T002,Burgundy,Colour,India,57.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2024-03,T002,Burgundy,Colour,India,47.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2024-04,T002,Burgundy,Colour,India,35.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2024-05,T002,Burgundy,Colour,India,44.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2024-06,T002,Burgundy,Colour,India,41.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2024-07,T002,Burgundy,Colour,India,50.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2024-08,T002,Burgundy,Colour,India,60.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2024-09,T002,Burgundy,Colour,India,67.1,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2024-10,T002,Burgundy,Colour,India,80.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2024-11,T002,Burgundy,Colour,India,85.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2024-12,T002,Burgundy,Colour,India,81.8,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2025-01,T002,Burgundy,Colour,India,64.5,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2025-02,T002,Burgundy,Colour,India,61.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2025-03,T002,Burgundy,Colour,India,47.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2025-04,T002,Burgundy,Colour,India,43.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2025-05,T002,Burgundy,Colour,India,33.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2025-06,T002,Burgundy,Colour,India,43.1,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2025-07,T002,Burgundy,Colour,India,53.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2025-08,T002,Burgundy,Colour,India,59.5,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2025-09,T002,Burgundy,Colour,India,74.8,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2025-10,T002,Burgundy,Colour,India,85.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2025-11,T002,Burgundy,Colour,India,84.8,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2025-12,T002,Burgundy,Colour,India,76.1,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2026-01,T002,Burgundy,Colour,India,79.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2026-02,T002,Burgundy,Colour,India,62.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2026-03,T002,Burgundy,Colour,India,50.5,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2026-04,T002,Burgundy,Colour,India,38.1,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2026-05,T002,Burgundy,Colour,India,47.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2026-06,T002,Burgundy,Colour,India,51.9,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2026-07,T002,Burgundy,Colour,India,56.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2026-08,T002,Burgundy,Colour,India,65.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2026-09,T002,Burgundy,Colour,India,79.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2026-10,T002,Burgundy,Colour,India,89.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,burgundy,All categories,monthly
+2023-11,T003,Chocolate Brown,Colour,India,42.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2023-12,T003,Chocolate Brown,Colour,India,33.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2024-01,T003,Chocolate Brown,Colour,India,39.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2024-02,T003,Chocolate Brown,Colour,India,25.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2024-03,T003,Chocolate Brown,Colour,India,25.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2024-04,T003,Chocolate Brown,Colour,India,24.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2024-05,T003,Chocolate Brown,Colour,India,26.8,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2024-06,T003,Chocolate Brown,Colour,India,37.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2024-07,T003,Chocolate Brown,Colour,India,38.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2024-08,T003,Chocolate Brown,Colour,India,54.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2024-09,T003,Chocolate Brown,Colour,India,53.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2024-10,T003,Chocolate Brown,Colour,India,52.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2024-11,T003,Chocolate Brown,Colour,India,61.8,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2024-12,T003,Chocolate Brown,Colour,India,55.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2025-01,T003,Chocolate Brown,Colour,India,49.9,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2025-02,T003,Chocolate Brown,Colour,India,50.1,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2025-03,T003,Chocolate Brown,Colour,India,46.8,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2025-04,T003,Chocolate Brown,Colour,India,43.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2025-05,T003,Chocolate Brown,Colour,India,46.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2025-06,T003,Chocolate Brown,Colour,India,46.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2025-07,T003,Chocolate Brown,Colour,India,58.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2025-08,T003,Chocolate Brown,Colour,India,71.9,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2025-09,T003,Chocolate Brown,Colour,India,68.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2025-10,T003,Chocolate Brown,Colour,India,76.5,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2025-11,T003,Chocolate Brown,Colour,India,76.1,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2025-12,T003,Chocolate Brown,Colour,India,72.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2026-01,T003,Chocolate Brown,Colour,India,62.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2026-02,T003,Chocolate Brown,Colour,India,66.5,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2026-03,T003,Chocolate Brown,Colour,India,54.1,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2026-04,T003,Chocolate Brown,Colour,India,52.8,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2026-05,T003,Chocolate Brown,Colour,India,64.9,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2026-06,T003,Chocolate Brown,Colour,India,70.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2026-07,T003,Chocolate Brown,Colour,India,78.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2026-08,T003,Chocolate Brown,Colour,India,79.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2026-09,T003,Chocolate Brown,Colour,India,84.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2026-10,T003,Chocolate Brown,Colour,India,93.5,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,chocolate brown,All categories,monthly
+2023-11,T004,Powder Blue,Colour,India,76.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2023-12,T004,Powder Blue,Colour,India,74.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2024-01,T004,Powder Blue,Colour,India,72.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2024-02,T004,Powder Blue,Colour,India,70.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2024-03,T004,Powder Blue,Colour,India,75.9,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2024-04,T004,Powder Blue,Colour,India,80.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2024-05,T004,Powder Blue,Colour,India,85.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2024-06,T004,Powder Blue,Colour,India,99.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2024-07,T004,Powder Blue,Colour,India,89.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2024-08,T004,Powder Blue,Colour,India,86.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2024-09,T004,Powder Blue,Colour,India,86.5,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2024-10,T004,Powder Blue,Colour,India,71.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2024-11,T004,Powder Blue,Colour,India,69.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2024-12,T004,Powder Blue,Colour,India,71.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2025-01,T004,Powder Blue,Colour,India,59.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2025-02,T004,Powder Blue,Colour,India,63.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2025-03,T004,Powder Blue,Colour,India,64.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2025-04,T004,Powder Blue,Colour,India,70.1,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2025-05,T004,Powder Blue,Colour,India,74.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2025-06,T004,Powder Blue,Colour,India,76.8,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2025-07,T004,Powder Blue,Colour,India,75.1,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2025-08,T004,Powder Blue,Colour,India,73.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2025-09,T004,Powder Blue,Colour,India,68.8,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2025-10,T004,Powder Blue,Colour,India,58.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2025-11,T004,Powder Blue,Colour,India,53.5,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2025-12,T004,Powder Blue,Colour,India,40.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2026-01,T004,Powder Blue,Colour,India,34.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2026-02,T004,Powder Blue,Colour,India,47.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2026-03,T004,Powder Blue,Colour,India,45.9,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2026-04,T004,Powder Blue,Colour,India,58.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2026-05,T004,Powder Blue,Colour,India,56.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2026-06,T004,Powder Blue,Colour,India,65.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2026-07,T004,Powder Blue,Colour,India,63.8,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2026-08,T004,Powder Blue,Colour,India,64.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2026-09,T004,Powder Blue,Colour,India,57.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2026-10,T004,Powder Blue,Colour,India,41.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,powder blue,All categories,monthly
+2023-11,T005,Sage Green,Colour,India,52.0,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2023-12,T005,Sage Green,Colour,India,49.5,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2024-01,T005,Sage Green,Colour,India,50.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2024-02,T005,Sage Green,Colour,India,48.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2024-03,T005,Sage Green,Colour,India,50.8,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2024-04,T005,Sage Green,Colour,India,63.1,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2024-05,T005,Sage Green,Colour,India,58.9,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2024-06,T005,Sage Green,Colour,India,64.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2024-07,T005,Sage Green,Colour,India,58.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2024-08,T005,Sage Green,Colour,India,59.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2024-09,T005,Sage Green,Colour,India,51.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2024-10,T005,Sage Green,Colour,India,52.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2024-11,T005,Sage Green,Colour,India,45.9,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2024-12,T005,Sage Green,Colour,India,54.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2025-01,T005,Sage Green,Colour,India,44.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2025-02,T005,Sage Green,Colour,India,51.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2025-03,T005,Sage Green,Colour,India,55.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2025-04,T005,Sage Green,Colour,India,62.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2025-05,T005,Sage Green,Colour,India,61.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2025-06,T005,Sage Green,Colour,India,69.8,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2025-07,T005,Sage Green,Colour,India,67.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2025-08,T005,Sage Green,Colour,India,57.5,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2025-09,T005,Sage Green,Colour,India,58.6,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2025-10,T005,Sage Green,Colour,India,54.1,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2025-11,T005,Sage Green,Colour,India,50.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2025-12,T005,Sage Green,Colour,India,49.3,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2026-01,T005,Sage Green,Colour,India,50.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2026-02,T005,Sage Green,Colour,India,49.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2026-03,T005,Sage Green,Colour,India,56.5,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2026-04,T005,Sage Green,Colour,India,57.4,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2026-05,T005,Sage Green,Colour,India,68.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2026-06,T005,Sage Green,Colour,India,64.2,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2026-07,T005,Sage Green,Colour,India,60.1,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2026-08,T005,Sage Green,Colour,India,61.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2026-09,T005,Sage Green,Colour,India,53.7,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly
+2026-10,T005,Sage Green,Colour,India,54.8,Synthetic demonstration,https://example.com/synthetic,2026-11-08,synthetic-india-colours,2023-11 to 2026-10,sage green,All categories,monthly

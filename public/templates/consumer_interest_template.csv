@@ -1,0 +1,2 @@
+date,trend_id,trend_name,category,region,search_interest,source,source_url,collection_date,query_group,time_range,search_query,search_category,granularity_source
+2026-10,T001,Butter Yellow,Colour,India,42.5,Google Trends,https://trends.google.com,2026-11-08,india-colours-5y-2026-11-08,2023-11 to 2026-10,butter yellow,All categories,monthly

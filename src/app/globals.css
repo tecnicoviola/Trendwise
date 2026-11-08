@@ -1,0 +1,179 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --canvas: #F7F6F2;
+  --surface: #FFFFFF;
+  --surface-2: #EFEEE8;
+  --text: #20211F;
+  --text-2: #66665E;
+  --muted: #A4A18F;
+  --accent: #73816B;
+  --accent-strong: #5A6853;
+  --border: #E5E3DB;
+  --success: #5B7A52;
+  --warning: #B07A1E;
+  --error: #A64B3F;
+
+  /* Card highlights and alert backgrounds */
+  --highlight-bg: #FAF9F5;
+  --alert-success-bg: #EBF3E8;
+  --alert-success-text: #335629;
+  --alert-success-border: #C2DCBC;
+  --alert-warning-bg: #FAF5E6;
+  --alert-warning-text: #8C6314;
+  --alert-warning-border: #E8D4A2;
+  --alert-error-bg: #FBECEB;
+  --alert-error-text: #7A2E26;
+  --alert-error-border: #F1C8C5;
+  --alert-neutral-bg: #F5F4ED;
+  --alert-neutral-text: #55564E;
+  --alert-neutral-border: #DBD9CE;
+
+  /* Chart elements */
+  --chart-grid: #E5E3DB;
+  --chart-text: #66665E;
+  --chart-observed: #20211F;
+  --chart-band-fill: #73816B;
+  --chart-band-bottom: #FFFFFF;
+  --chart-test-zone: #73816B;
+
+  /* Font variables with system fallbacks */
+  --font-manrope: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-dm-serif: "DM Serif Display", Georgia, serif;
+
+  /* Swatches and chart lines */
+  --color-butter-yellow-swatch: #F4E4A6;
+  --color-butter-yellow-line: #C9A227;
+  --color-burgundy-swatch: #7A1F32;
+  --color-burgundy-line: #7A1F32;
+  --color-chocolate-brown-swatch: #4A2C20;
+  --color-chocolate-brown-line: #4A2C20;
+  --color-powder-blue-swatch: #B7D0E3;
+  --color-powder-blue-line: #5B8DB5;
+  --color-sage-green-swatch: #9DB08A;
+  --color-sage-green-line: #6F8A5A;
+}
+
+.dark {
+  --canvas: #141514;
+  --surface: #1E201E;
+  --surface-2: #272A27;
+  --text: #EDEDE8;
+  --text-2: #A3A299;
+  --muted: #4B4E49;
+  --accent: #8E9E86;
+  --accent-strong: #AEC0A5;
+  --border: #2C302C;
+  --success: #6E9464;
+  --warning: #C79532;
+  --error: #BD594D;
+
+  /* Card highlights and alert backgrounds */
+  --highlight-bg: #222521;
+  --alert-success-bg: #1F2E1C;
+  --alert-success-text: #A8D19C;
+  --alert-success-border: #2F472B;
+  --alert-warning-bg: #2E291C;
+  --alert-warning-text: #E5C37A;
+  --alert-warning-border: #4A3E25;
+  --alert-error-bg: #301E1D;
+  --alert-error-text: #E5958E;
+  --alert-error-border: #4C2B29;
+  --alert-neutral-bg: #242724;
+  --alert-neutral-text: #C4C3BA;
+  --alert-neutral-border: #363A36;
+
+  /* Chart elements */
+  --chart-grid: #2C302C;
+  --chart-text: #96958C;
+  --chart-observed: #EDEDE8;
+  --chart-band-fill: #8E9E86;
+  --chart-band-bottom: #1E201E;
+  --chart-test-zone: #8E9E86;
+
+  /* Swatches and chart lines adjusted for high contrast on dark backgrounds */
+  --color-butter-yellow-swatch: #F4E4A6;
+  --color-butter-yellow-line: #E2BC3B;
+  --color-burgundy-swatch: #8A253A;
+  --color-burgundy-line: #C43B57;
+  --color-chocolate-brown-swatch: #5E392B;
+  --color-chocolate-brown-line: #B5755A;
+  --color-powder-blue-swatch: #B7D0E3;
+  --color-powder-blue-line: #6EA3CF;
+  --color-sage-green-swatch: #9DB08A;
+  --color-sage-green-line: #88A870;
+}
+
+body {
+  background-color: var(--canvas);
+  color: var(--text);
+  font-family: var(--font-manrope);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.font-serif {
+  font-family: var(--font-dm-serif);
+}
+
+.font-sans {
+  font-family: var(--font-manrope);
+}
+
+/* Woven texture for illustrative colour swatches */
+.swatch-woven {
+  background-image: radial-gradient(rgba(0, 0, 0, 0.08) 1px, transparent 1px);
+  background-size: 8px 8px;
+}
+.dark .swatch-woven {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.12) 1px, transparent 1px);
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--surface-2);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--muted);
+  border-radius: 3px;
+}
+
+/* Print CSS */
+@media print {
+  body {
+    background-color: #FFFFFF !important;
+    color: #000000 !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .page-break {
+    page-break-after: always;
+    break-after: page;
+  }
+  .break-inside-avoid {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  @page {
+    size: A4 portrait;
+    margin: 18mm;
+  }
+}

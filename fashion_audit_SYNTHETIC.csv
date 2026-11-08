@@ -1,0 +1,51 @@
+audit_id,retailer,product,product_url,audit_date,product_category,colour,fabric,print,silhouette,listing_source
+SYN-001,Retailer A (SYNTHETIC),Synthetic Demo Top A-01,https://example.com/synthetic/a-01,2026-11-08,Women's Tops,Butter Yellow,Cotton,Solid,Boxy,New Arrivals
+SYN-002,Retailer A (SYNTHETIC),Synthetic Demo Top A-02,https://example.com/synthetic/a-02,2026-11-08,Women's Tops,Butter Yellow,Satin,Solid,Fitted,New Arrivals
+SYN-003,Retailer A (SYNTHETIC),Synthetic Demo Top A-03,https://example.com/synthetic/a-03,2026-11-08,Women's Tops,Butter Yellow,Linen,Solid,Relaxed,New Arrivals
+SYN-004,Retailer A (SYNTHETIC),Synthetic Demo Top A-04,https://example.com/synthetic/a-04,2026-11-08,Women's Tops,Burgundy,Satin,Solid,Fitted,New Arrivals
+SYN-005,Retailer A (SYNTHETIC),Synthetic Demo Top A-05,https://example.com/synthetic/a-05,2026-11-08,Women's Tops,Burgundy,Knit,Solid,Cropped,New Arrivals
+SYN-006,Retailer A (SYNTHETIC),Synthetic Demo Top A-06,https://example.com/synthetic/a-06,2026-11-08,Women's Tops,Chocolate Brown,Knit,Solid,Oversized,New Arrivals
+SYN-007,Retailer A (SYNTHETIC),Synthetic Demo Top A-07,https://example.com/synthetic/a-07,2026-11-08,Women's Tops,Chocolate Brown,Satin,Solid,Fitted,New Arrivals
+SYN-008,Retailer A (SYNTHETIC),Synthetic Demo Top A-08,https://example.com/synthetic/a-08,2026-11-08,Women's Tops,Chocolate Brown,Cotton,Stripes,Relaxed,New Arrivals
+SYN-009,Retailer A (SYNTHETIC),Synthetic Demo Top A-09,https://example.com/synthetic/a-09,2026-11-08,Women's Tops,Powder Blue,Cotton,Stripes,Oversized,New Arrivals
+SYN-010,Retailer A (SYNTHETIC),Synthetic Demo Top A-10,https://example.com/synthetic/a-10,2026-11-08,Women's Tops,Powder Blue,Linen,Solid,Relaxed,New Arrivals
+SYN-011,Retailer A (SYNTHETIC),Synthetic Demo Top A-11,https://example.com/synthetic/a-11,2026-11-08,Women's Tops,Powder Blue,Rayon,Floral,Fitted,New Arrivals
+SYN-012,Retailer A (SYNTHETIC),Synthetic Demo Top A-12,https://example.com/synthetic/a-12,2026-11-08,Women's Tops,Sage Green,Linen,Solid,Boxy,New Arrivals
+SYN-013,Retailer A (SYNTHETIC),Synthetic Demo Top A-13,https://example.com/synthetic/a-13,2026-11-08,Women's Tops,Sage Green,Cotton,Solid,Cropped,New Arrivals
+SYN-014,Retailer A (SYNTHETIC),Synthetic Demo Top A-14,https://example.com/synthetic/a-14,2026-11-08,Women's Tops,White,Cotton,Solid,Oversized,New Arrivals
+SYN-015,Retailer A (SYNTHETIC),Synthetic Demo Top A-15,https://example.com/synthetic/a-15,2026-11-08,Women's Tops,Black,Satin,Solid,Fitted,New Arrivals
+SYN-016,Retailer A (SYNTHETIC),Synthetic Demo Top A-16,https://example.com/synthetic/a-16,2026-11-08,Women's Tops,Cream,Knit,Solid,Cropped,New Arrivals
+SYN-017,Retailer A (SYNTHETIC),Synthetic Demo Top A-17,https://example.com/synthetic/a-17,2026-11-08,Women's Tops,Navy,Cotton,Stripes,Boxy,New Arrivals
+SYN-018,Retailer B (SYNTHETIC),Synthetic Demo Top B-01,https://example.com/synthetic/b-01,2026-11-08,Women's Tops,Butter Yellow,Cotton,Solid,Cropped,New Arrivals
+SYN-019,Retailer B (SYNTHETIC),Synthetic Demo Top B-02,https://example.com/synthetic/b-02,2026-11-08,Women's Tops,Butter Yellow,Crochet,Floral,Fitted,New Arrivals
+SYN-020,Retailer B (SYNTHETIC),Synthetic Demo Top B-03,https://example.com/synthetic/b-03,2026-11-08,Women's Tops,Butter Yellow,Rayon,Floral,Relaxed,New Arrivals
+SYN-021,Retailer B (SYNTHETIC),Synthetic Demo Top B-04,https://example.com/synthetic/b-04,2026-11-08,Women's Tops,Burgundy,Satin,Solid,Oversized,New Arrivals
+SYN-022,Retailer B (SYNTHETIC),Synthetic Demo Top B-05,https://example.com/synthetic/b-05,2026-11-08,Women's Tops,Burgundy,Knit,Solid,Fitted,New Arrivals
+SYN-023,Retailer B (SYNTHETIC),Synthetic Demo Top B-06,https://example.com/synthetic/b-06,2026-11-08,Women's Tops,Burgundy,Cotton,Checks,Boxy,New Arrivals
+SYN-024,Retailer B (SYNTHETIC),Synthetic Demo Top B-07,https://example.com/synthetic/b-07,2026-11-08,Women's Tops,Chocolate Brown,Cotton,Solid,Oversized,New Arrivals
+SYN-025,Retailer B (SYNTHETIC),Synthetic Demo Top B-08,https://example.com/synthetic/b-08,2026-11-08,Women's Tops,Chocolate Brown,Knit,Solid,Cropped,New Arrivals
+SYN-026,Retailer B (SYNTHETIC),Synthetic Demo Top B-09,https://example.com/synthetic/b-09,2026-11-08,Women's Tops,Sage Green,Linen,Solid,Oversized,New Arrivals
+SYN-027,Retailer B (SYNTHETIC),Synthetic Demo Top B-10,https://example.com/synthetic/b-10,2026-11-08,Women's Tops,Sage Green,Rayon,Floral,Relaxed,New Arrivals
+SYN-028,Retailer B (SYNTHETIC),Synthetic Demo Top B-11,https://example.com/synthetic/b-11,2026-11-08,Women's Tops,White,Cotton,Solid,Boxy,New Arrivals
+SYN-029,Retailer B (SYNTHETIC),Synthetic Demo Top B-12,https://example.com/synthetic/b-12,2026-11-08,Women's Tops,White,Linen,Solid,Relaxed,New Arrivals
+SYN-030,Retailer B (SYNTHETIC),Synthetic Demo Top B-13,https://example.com/synthetic/b-13,2026-11-08,Women's Tops,Black,Cotton,Solid,Fitted,New Arrivals
+SYN-031,Retailer B (SYNTHETIC),Synthetic Demo Top B-14,https://example.com/synthetic/b-14,2026-11-08,Women's Tops,Cream,Crochet,Solid,Cropped,New Arrivals
+SYN-032,Retailer B (SYNTHETIC),Synthetic Demo Top B-15,https://example.com/synthetic/b-15,2026-11-08,Women's Tops,Pink,Satin,Solid,Fitted,New Arrivals
+SYN-033,Retailer B (SYNTHETIC),Synthetic Demo Top B-16,https://example.com/synthetic/b-16,2026-11-08,Women's Tops,Olive Green,Cotton,Checks,Oversized,New Arrivals
+SYN-034,Retailer B (SYNTHETIC),Synthetic Demo Top B-17,https://example.com/synthetic/b-17,2026-11-08,Women's Tops,Navy,Linen,Stripes,Relaxed,New Arrivals
+SYN-035,Retailer C (SYNTHETIC),Synthetic Demo Top C-01,https://example.com/synthetic/c-01,2026-11-08,Women's Tops,Butter Yellow,Linen,Solid,Oversized,New Arrivals
+SYN-036,Retailer C (SYNTHETIC),Synthetic Demo Top C-02,https://example.com/synthetic/c-02,2026-11-08,Women's Tops,Butter Yellow,Cotton,Polka Dots,Fitted,New Arrivals
+SYN-037,Retailer C (SYNTHETIC),Synthetic Demo Top C-03,https://example.com/synthetic/c-03,2026-11-08,Women's Tops,Burgundy,Knit,Solid,Oversized,New Arrivals
+SYN-038,Retailer C (SYNTHETIC),Synthetic Demo Top C-04,https://example.com/synthetic/c-04,2026-11-08,Women's Tops,Chocolate Brown,Satin,Solid,Cropped,New Arrivals
+SYN-039,Retailer C (SYNTHETIC),Synthetic Demo Top C-05,https://example.com/synthetic/c-05,2026-11-08,Women's Tops,Chocolate Brown,Cotton,Solid,Boxy,New Arrivals
+SYN-040,Retailer C (SYNTHETIC),Synthetic Demo Top C-06,https://example.com/synthetic/c-06,2026-11-08,Women's Tops,Powder Blue,Cotton,Solid,Cropped,New Arrivals
+SYN-041,Retailer C (SYNTHETIC),Synthetic Demo Top C-07,https://example.com/synthetic/c-07,2026-11-08,Women's Tops,Powder Blue,Rayon,Floral,Relaxed,New Arrivals
+SYN-042,Retailer C (SYNTHETIC),Synthetic Demo Top C-08,https://example.com/synthetic/c-08,2026-11-08,Women's Tops,Sage Green,Cotton,Solid,Fitted,New Arrivals
+SYN-043,Retailer C (SYNTHETIC),Synthetic Demo Top C-09,https://example.com/synthetic/c-09,2026-11-08,Women's Tops,Sage Green,Satin,Solid,Oversized,New Arrivals
+SYN-044,Retailer C (SYNTHETIC),Synthetic Demo Top C-10,https://example.com/synthetic/c-10,2026-11-08,Women's Tops,White,Cotton,Solid,Fitted,New Arrivals
+SYN-045,Retailer C (SYNTHETIC),Synthetic Demo Top C-11,https://example.com/synthetic/c-11,2026-11-08,Women's Tops,White,Crochet,Floral,Cropped,New Arrivals
+SYN-046,Retailer C (SYNTHETIC),Synthetic Demo Top C-12,https://example.com/synthetic/c-12,2026-11-08,Women's Tops,Black,Satin,Solid,Fitted,New Arrivals
+SYN-047,Retailer C (SYNTHETIC),Synthetic Demo Top C-13,https://example.com/synthetic/c-13,2026-11-08,Women's Tops,Black,Knit,Geometric,Oversized,New Arrivals
+SYN-048,Retailer C (SYNTHETIC),Synthetic Demo Top C-14,https://example.com/synthetic/c-14,2026-11-08,Women's Tops,Cream,Linen,Solid,Boxy,New Arrivals
+SYN-049,Retailer C (SYNTHETIC),Synthetic Demo Top C-15,https://example.com/synthetic/c-15,2026-11-08,Women's Tops,Pink,Cotton,Floral,Relaxed,New Arrivals
+SYN-050,Retailer C (SYNTHETIC),Synthetic Demo Top C-16,https://example.com/synthetic/c-16,2026-11-08,Women's Tops,Olive Green,Cotton,Solid,Relaxed,New Arrivals
